@@ -1,0 +1,590 @@
+@media (max-width: 1399.98px) {
+}
+@media (max-width: 1199.98px) {
+    h1 {
+        font-size: 120px;
+        font-weight: 900;
+        color: #ffffff;
+        font-family: 'Barlow', sans-serif;
+    }
+    #banner_section .banner-text {
+        text-align: center;
+    }
+    #banner_section .banner-text .stock-text {
+        position: relative;
+        left: 0;
+        top: -24px;
+    }
+    nav#navbar .main-menu ul {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+
+    #banner_section .banner-text h2 {
+        font-size: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #banner_section .banner-text span {
+        display: inline-block;
+        margin-top: 100px;
+    }
+    #banner_section .banner-text h5 {
+        display: inline-block;
+    }
+
+    .section-padding {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        text-align: center;
+    }
+    .section-headding h2 {
+        font-size: 55px;
+    }
+    .section-headding span {
+        font-size: 70px;
+
+        left: 50%;
+        top: -19px;
+        transform: translateX(-50%);
+    }
+    #services_section .singlServices .services-text h4 a {
+        font-size: 21px;
+
+        margin-bottom: 25px;
+    }
+    #services_section .singlServices .services-text {
+        padding: 20px;
+    }
+    section#About_us .about-us-left {
+        padding-right: 0px;
+    }
+    section#About_us {
+        overflow: hidden;
+    }
+    section#About_us .section-headding span {
+        font-size: 70px;
+        left: 34%;
+        top: -20px;
+    }
+    section#About_us .section-headding {
+        margin-bottom: 35px;
+    }
+    section#About_us .about-us-left h6 {
+        margin-bottom: 30px;
+    }
+    section#About_us .about-us-left p {
+        margin-bottom: 30px;
+    }
+    section#About_us .about-us-right .text h3 {
+        font-size: 40px;
+    }
+    section#our_project .section-headding span {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #contact_section .section-headding span {
+        left: 50%;
+        top: -12px;
+        transform: translateX(-50%);
+    }
+    #our_team .singleTeam .teamInfo span::before {
+        top: 50%;
+        left: 47px;
+    }
+    #testimonial_section .testimonalWraper .testimonialItem .founder-text {
+        display: inline-block;
+    }
+    #testimonial_section
+        .testimonalWraper
+        .testimonialItem
+        .founder-text::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: -32px;
+        width: 30px;
+        height: 3px;
+        background: #ff5f13;
+        transform: translateY(-50%);
+    }
+    section#blog_section .singleBlog .blog-desc h4 a {
+        padding-right: 0px;
+        margin-bottom: 17px;
+    }
+    section#blog_section .singleBlog .blog-desc p::before {
+        display: none;
+    }
+    section#blog_section .singleBlog .blog-desc p {
+        padding-left: 0px;
+    }
+    section#blog_section .singleBlog .blog-desc {
+        padding: 25px 30px;
+        background: #00235b;
+        text-align: left;
+    }
+    footer#footer_area {
+        padding-top: 80px;
+        padding-bottom: 10px;
+    }
+    footer#footer_area .footer-bottom p {
+        text-align: center;
+    }
+    footer#footer_area .footer-item h3 {
+        margin-bottom: 25px;
+        font-size: 22px;
+    }
+    footer#footer_area .footer-item .footer-logo {
+        margin-bottom: 25px;
+    }
+    footer#footer_area .footer-item .footer-logo img {
+        width: 170px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    h1 {
+        font-size: 95px;
+        font-weight: 900;
+        color: #ffffff;
+        font-family: 'Barlow', sans-serif;
+    }
+    #banner_section .banner-text h2 {
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 1;
+        text-transform: uppercase;
+        position: absolute;
+        color: #fff;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .banner-text {
+        text-align: center;
+    }
+    #banner_section .banner-text .stock-text {
+        position: relative;
+        left: 0;
+        top: -24px;
+    }
+    .logo a img {
+        width: 180px;
+    }
+    nav#navbar .main-menu ul {
+        display: none;
+    }
+    #banner_section .banner-image {
+        padding-top: 200px;
+        padding-bottom: 80px;
+    }
+    #banner_section .banner-text span {
+        display: inline-block;
+        margin-top: 45px;
+    }
+    #banner_section .banner-text h5 {
+        display: inline-block;
+    }
+
+    .section-padding {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        text-align: center;
+    }
+    #services_section .singlServices .services-text {
+        padding: 20px 25px 20px 25px;
+    }
+    #services_section .singlServices .services-text h4 a {
+        font-size: 20px;
+
+        margin-bottom: 20px;
+    }
+    .section-headding span {
+        font-size: 70px;
+
+        left: 189px;
+        top: -23px;
+    }
+    .section-headding h2 {
+        font-size: 50px;
+    }
+    section#About_us .section-headding {
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    section#About_us .about-us-left {
+        padding-right: 0px;
+        padding-bottom: 50px;
+    }
+    section#About_us .about-us-left h6 {
+        margin-bottom: 15px;
+    }
+    section#About_us .about-us-left h6 {
+        margin-bottom: 15px;
+    }
+    section#our_project .projct-right .nav {
+        justify-content: center;
+    }
+    section#our_project .section-headding span {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .projct-right {
+        padding-bottom: 35px;
+    }
+    section#About_us {
+        overflow: hidden;
+    }
+    #contact_section .section-headding span {
+        left: 46%;
+        top: -14px;
+        transform: translateX(-50%);
+        font-size: 68px;
+    }
+    #testimonial_section .testimonalWraper .testimonialItem {
+        margin-left: 0;
+        width: auto;
+    }
+    #testimonial_section
+        .testimonalWraper
+        .testimonialItem
+        .founder-text::before {
+        display: none;
+    }
+    section#blog_section .singleBlog .blog-desc h4 a {
+        font-size: 20px;
+        padding-right: 0px;
+        margin-bottom: 15px;
+    }
+    section#blog_section .singleBlog .blog-desc {
+        padding: 25px;
+        background: #00235b;
+    }
+    section#blog_section .singleBlog .blog-desc p {
+        padding-left: 0px;
+    }
+    section#blog_section .singleBlog .blog-desc p::before {
+        display: none;
+    }
+    #our_team .singleTeam .teamInfo span::before {
+        display: none;
+    }
+    section#blog_section .singleBlog .blog-desc {
+        padding: 25px;
+        background: #00235b;
+        text-align: left;
+    }
+    footer#footer_area {
+        padding-top: 80px;
+        padding-bottom: 0px;
+    }
+    footer#footer_area .footer-item h3 {
+        margin-bottom: 20px;
+
+        font-size: 25px;
+    }
+    footer#footer_area .footer-item .footer-logo {
+        margin-bottom: 20px;
+    }
+    footer#footer_area .footer-item .footer-logo img {
+        width: 180px;
+    }
+}
+@media (max-width: 767.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    h1 {
+        margin-bottom: 30px;
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 1;
+    }
+    #banner_section .banner-text h2 {
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 1;
+        text-transform: uppercase;
+        position: absolute;
+        color: #fff;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .banner-text {
+        text-align: center;
+    }
+    #banner_section .banner-text .stock-text {
+        position: relative;
+        left: 0;
+        top: -24px;
+    }
+    .logo a img {
+        width: 180px;
+    }
+    nav#navbar .main-menu ul {
+        display: none;
+    }
+    #banner_section .banner-image {
+        padding-top: 200px;
+        padding-bottom: 80px;
+    }
+    #banner_section .banner-text span {
+        display: inline-block;
+        margin-top: 80px;
+    }
+    #banner_section .banner-text h5 {
+        display: inline-block;
+    }
+    .section-padding {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .section-headding h2 {
+        font-size: 40px;
+        text-align: center;
+    }
+    section#About_us .section-headding {
+        margin-bottom: 30px;
+    }
+    .section-headding {
+        position: relative;
+        z-index: 2;
+        margin-bottom: 30px;
+    }
+    section#About_us .section-headding span {
+        font-size: 70px;
+        left: 133px;
+        top: -23px;
+    }
+    section#About_us .about-us-left h6 {
+        margin-bottom: 30px;
+    }
+    section#About_us .about-us-left p {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+    section#About_us {
+        overflow: hidden;
+    }
+    section#About_us .about-us-left {
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .singleProject .project-image img {
+        width: 100%;
+    }
+    section#our_project .section-headding span {
+        font-size: 70px;
+        left: 133px;
+        top: -23px;
+    }
+    .projct-right {
+        margin-bottom: 30px;
+    }
+    #contact_section .section-headding span {
+        font-size: 70px;
+        left: 58px;
+        top: -23px;
+    }
+    #counter_section .counterWraper .counter_item.item-1 {
+        padding-bottom: 0px;
+    }
+    #counter_section .counterWraper .counter_item.item-3 {
+        padding-top: 0px;
+    }
+    #counter_section .counterWraper .counter_item.item-2 {
+        padding-left: 20px;
+        padding-bottom: 0px;
+    }
+
+    #our_team .singleTeam .team-image img {
+        width: 100%;
+    }
+    .section-headding span {
+        font-size: 50px;
+        left: 140px;
+        top: -15px;
+    }
+    section#blog_section .singleBlog .blog-desc {
+        padding: 25px 25px;
+        background: #00235b;
+    }
+    section#blog_section .singleBlog .blog-desc h4 a {
+        font-size: 14px;
+        padding-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    #counter_section .counterWraper .counterNUmber .counter-text span {
+        color: #fff;
+        font-size: 30px;
+    }
+    footer#footer_area {
+        padding-top: 75px;
+        background: #070b11;
+        color: #fff;
+        overflow: hidden;
+        padding-bottom: 0px;
+    }
+    #testimonial_section .testimonalWraper .testimonialItem {
+        margin-left: 0px;
+        width: auto;
+    }
+}
+
+@media (max-width: 575.98px) {
+    h1 {
+        margin-bottom: 30px;
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 1;
+    }
+    #banner_section .banner-text h2 {
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 1;
+        text-transform: uppercase;
+        position: absolute;
+        color: #fff;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #banner_section .banner-text .stock-text {
+        position: relative;
+        left: 0;
+        top: -24px;
+    }
+    #banner_section .banner-text span::before {
+        left: -34px;
+    }
+    #banner_section .banner-text h5::before {
+        display: none;
+    }
+    nav#navbar .main-menu ul {
+        display: none;
+    }
+    .logo a img {
+        width: 130px;
+    }
+    #banner_section .banner-image {
+        padding-top: 200px;
+        padding-bottom: 80px;
+    }
+    #banner_section .banner-text span {
+        margin-top: 40px;
+    }
+    .section-headding h2 {
+        font-size: 40px;
+        text-align: center;
+    }
+    #services_section .singlServices .services-text h4 a {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    #services_section .singlServices .services-text {
+        padding: 20px;
+    }
+    section#About_us {
+        overflow: hidden;
+    }
+    section#About_us .about-us-left {
+        padding-right: 0px;
+        margin-bottom: 35px;
+    }
+    section#About_us .about-us-left h6 {
+        margin-bottom: 20px;
+    }
+    .section-headding {
+        margin-bottom: 30px;
+    }
+    section#About_us .section-headding {
+        margin-bottom: 30px;
+    }
+    .section-padding {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    section#About_us .btn-primary {
+        text-align: center;
+    }
+    section#About_us .about-us-right .text h3 {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    section#our_project .projct-right .nav {
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .section-headding span {
+        display: none;
+    }
+    #contact_section {
+        padding-top: 80px;
+        padding-bottom: 145px;
+    }
+    #contact_section p {
+        padding-top: 0px;
+        width: auto;
+    }
+    #counter_section .counterWraper .counter_item.item-2 {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    #counter_section .counterWraper .counter_item.item-1 {
+        padding-bottom: 0px;
+    }
+
+    #counter_section .counterWraper .counter_item.item-3 {
+        padding-top: 0px;
+    }
+    section#blog_section .singleBlog .blog-desc {
+        padding: 25px 30px;
+    }
+    section#blog_section .singleBlog .blog-desc h4 a {
+        font-size: 20px;
+        padding-right: 0px;
+    }
+    footer#footer_area .footer-item-4 form {
+        margin-bottom: 45px;
+    }
+    footer#footer_area {
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
+    #testimonial_section .testimonalWraper .testimonialItem {
+        margin-left: 0px;
+        width: auto;
+    }
+    section#About_us .about-us-right .text {
+        position: absolute;
+        bottom: 0px;
+        background: #1f2b7b;
+        padding: 30px 12px;
+        border-radius: 5px;
+        color: #fff;
+        text-align: center;
+    }
+    #counter_section .counterWraper .counterNUmber {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    footer#footer_area .footer-item h3 {
+        margin-bottom: 20px;
+
+        font-size: 25px;
+    }
+    footer#footer_area .footer-item .footer-logo {
+        margin-bottom: 20px;
+    }
+    footer#footer_area .footer-item .footer-logo img {
+        width: 170px;
+    }
+}
